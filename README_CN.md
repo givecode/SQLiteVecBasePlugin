@@ -1,5 +1,7 @@
 # Unreal Engine SQLiteVecBasePlugin
 
+<!-- 根据 SQLiteVecBasePlugin VersionName 1.1（Version 2）生成 -->
+
 [English](README.md) | [简体中文](README_CN.md)
 
 SQLiteVecBasePlugin 是一款面向 Unreal Engine 5 的轻量级、完全离线 SQLite 与向量检索运行时插件。它提供可由蓝图调用的标准 SQLite 操作、`sqlite-vec` 向量存储以及 K 近邻（KNN）检索接口。
@@ -12,7 +14,7 @@ SQLiteVecBasePlugin 是一款面向 Unreal Engine 5 的轻量级、完全离线 
 
 | 项目 | 当前支持配置 |
 | --- | --- |
-| 插件版本 | 1.0 |
+| 插件版本 | 1.1 |
 | Unreal Engine | 5.6 |
 | 平台 | Windows 64 位 |
 | 模块类型 | Runtime |
@@ -314,8 +316,8 @@ SQLiteVec.Test D:/Temp/sqlite_vec_test.db
 
 项目文档、错误反馈和新功能建议均可通过本仓库提交：
 
-- 项目仓库：[givecode/SQLiteVecForUE](https://github.com/givecode/SQLiteVecForUE)
-- 反馈问题：[提交 GitHub Issue](https://github.com/givecode/SQLiteVecForUE/issues)
-- 提出新需求：[提交 GitHub Issue](https://github.com/givecode/SQLiteVecForUE/issues)
+- 项目仓库：[givecode/SQLiteVecBasePlugin](https://github.com/givecode/SQLiteVecBasePlugin)
+- 反馈问题：[提交 GitHub Issue](https://github.com/givecode/SQLiteVecBasePlugin/issues)
+- 提出新需求：[提交 GitHub Issue](https://github.com/givecode/SQLiteVecBasePlugin/issues)
 
 提交问题时，建议附上 Unreal Engine 版本、插件版本、Windows 版本、问题发生在编辑器还是打包程序、相关 `LogSQLiteVec` 日志，以及可以复现问题的最少步骤。

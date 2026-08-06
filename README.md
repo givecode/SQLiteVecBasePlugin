@@ -1,5 +1,7 @@
 # SQLiteVecBasePlugin for Unreal Engine
 
+<!-- Generated from SQLiteVecBasePlugin VersionName 1.1 (Version 2) -->
+
 [English](README.md) | [简体中文](README_CN.md)
 
 SQLiteVecBasePlugin is a lightweight, fully offline SQLite and vector-search runtime plugin for Unreal Engine 5. It exposes Blueprint-callable APIs for standard SQLite operations, `sqlite-vec` vector storage, and K-nearest-neighbor (KNN) search.
@@ -12,7 +14,7 @@ The plugin runs locally and does not require a database server or network connec
 
 | Item | Supported configuration |
 | --- | --- |
-| Plugin version | 1.0 |
+| Plugin version | 1.1 |
 | Unreal Engine | 5.6 |
 | Platform | Windows 64-bit |
 | Module type | Runtime |
@@ -314,8 +316,8 @@ Keep the supplied third-party license and notice files with redistributions. The
 
 Documentation, bug reports, and feature requests are handled through this repository:
 
-- Repository: [givecode/SQLiteVecForUE](https://github.com/givecode/SQLiteVecForUE)
-- Report a bug: [Open a GitHub issue](https://github.com/givecode/SQLiteVecForUE/issues)
-- Request a feature: [Open a GitHub issue](https://github.com/givecode/SQLiteVecForUE/issues)
+- Repository: [givecode/SQLiteVecBasePlugin](https://github.com/givecode/SQLiteVecBasePlugin)
+- Report a bug: [Open a GitHub issue](https://github.com/givecode/SQLiteVecBasePlugin/issues)
+- Request a feature: [Open a GitHub issue](https://github.com/givecode/SQLiteVecBasePlugin/issues)
 
 When reporting a problem, include the Unreal Engine version, plugin version, Windows version, whether the issue occurs in Editor or a packaged build, relevant `LogSQLiteVec` output, and minimal reproduction steps.
