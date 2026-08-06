@@ -1,4 +1,4 @@
-# SQLiteVecBasePlugin for Unreal Engine 5
+# SQLiteVecBasePlugin for Unreal Engine 5 (UE5)
 
 <!-- 根据 SQLiteVecBasePlugin VersionName 1.1（Version 2）生成 -->
 
