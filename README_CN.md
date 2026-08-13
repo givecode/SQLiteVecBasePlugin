@@ -15,7 +15,7 @@ SQLiteVecBasePlugin 是一款面向 Unreal Engine 5 的轻量级、完全离线 
 | 项目 | 当前支持配置 |
 | --- | --- |
 | 插件版本 | 1.1 |
-| Unreal Engine | 5.6 |
+| Unreal Engine | 5.4-5.8 |
 | 平台 | Windows 64 位 |
 | 模块类型 | Runtime |
 | 蓝图调用 | 支持 |
