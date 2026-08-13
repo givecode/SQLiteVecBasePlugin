@@ -15,7 +15,7 @@ The plugin runs locally and does not require a database server or network connec
 | Item | Supported configuration |
 | --- | --- |
 | Plugin version | 1.1 |
-| Unreal Engine | 5.6 |
+| Unreal Engine | 5.4-5.8 |
 | Platform | Windows 64-bit |
 | Module type | Runtime |
 | Blueprint access | Yes |
